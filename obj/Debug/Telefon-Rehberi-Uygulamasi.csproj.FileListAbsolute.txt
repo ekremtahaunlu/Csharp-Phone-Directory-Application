@@ -1,0 +1,7 @@
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\bin\Debug\Telefon-Rehberi-Uygulamasi.exe.config
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\bin\Debug\Telefon-Rehberi-Uygulamasi.exe
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\bin\Debug\Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\obj\Debug\Telefon-Rehberi-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\obj\Debug\Telefon-Rehberi-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\obj\Debug\Telefon-Rehberi-Uygulamasi.exe
+C:\Users\ekrem\source\repos\Telefon-Rehberi-Uygulamasi\obj\Debug\Telefon-Rehberi-Uygulamasi.pdb
